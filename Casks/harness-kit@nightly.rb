@@ -1,6 +1,6 @@
 cask "harness-kit@nightly" do
-  version "20260420"
-  sha256 "e135441a4df29ff7ba692fffd2a248d3bd9d4b5869d1a2b4c5bc330143febb04"
+  version "20260421"
+  sha256 "ef78228eaf20fc6c6404bc12863de1c49d35c1e6b5fbac40d0a8edf81724d13d"
 
   url "https://github.com/harnessprotocol/harness-kit/releases/download/nightly/HarnessKit-nightly-darwin-arm64.dmg"
   name "Harness Kit (Nightly)"
