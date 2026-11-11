@@ -1,6 +1,6 @@
 cask "harness-kit" do
-  version "0.13.0"
-  sha256 "09f50e46a7e620220b172f172c279ca1403ebca8911363e1cb38abb23942dbeb"
+  version "0.13.1"
+  sha256 "cb2e7a60bfae805371f7d0cc6f22a59a25ac0337fb37ea2ca1c3b861d0cd2075"
 
   url "https://github.com/harnessprotocol/harness-kit/releases/download/v#{version}/HarnessKit-v#{version}-darwin-arm64.dmg"
   name "Harness Kit"

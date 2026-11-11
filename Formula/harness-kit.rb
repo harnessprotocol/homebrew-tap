@@ -5,9 +5,9 @@ class HarnessKit < Formula
   # Homebrew's formula DSL evaluates the class body top-to-bottom, so a `url`
   # referencing #{version} above its `version` line resolves against nil and
   # silently degrades to a malformed download URL.
-  version "0.13.0"
+  version "0.13.1"
   url "https://github.com/harnessprotocol/harness-kit/releases/download/v#{version}/harness-kit-v#{version}-darwin-arm64.tar.gz"
-  sha256 "b6d6c45e6dfcabe23026d8ee0fe35680a46cad73b266c522a55f0f8bc1ef5ce7"
+  sha256 "a0af594f4d90db61db7b8bec040f169e0f6c09092946cdbf43bd69e049946cf1"
   license "Apache-2.0"
 
   depends_on arch: :arm64
