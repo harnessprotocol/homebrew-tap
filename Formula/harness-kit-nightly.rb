@@ -2,9 +2,9 @@ class HarnessKitNightly < Formula
   desc "Compile and validate harness.yaml for AI coding tools (nightly)"
   homepage "https://github.com/harnessprotocol/harness-kit"
   url "https://github.com/harnessprotocol/harness-kit/releases/download/nightly/harness-kit-nightly-darwin-arm64.tar.gz"
-  sha256 "5e6bd8b9b679340bd89c7c0e2735e02bf5df6501d5822be464f80aa483fe5e5b"
+  sha256 "026d081de8c06975f12c9538df0edd3f7a65bcd3205c22ad06b4fe7462da13ee"
   license "Apache-2.0"
-  version "20261125"
+  version "20261126"
 
   depends_on arch: :arm64
 
